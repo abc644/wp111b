@@ -22,3 +22,14 @@
 - [Promise和異步函數](https://github.com/abc644/wp111b/blob/main/HW/Midterm/Promise%E5%92%8C%E7%95%B0%E6%AD%A5%E5%87%BD%E6%95%B8.md)
 - [Async/Await](https://github.com/abc644/wp111b/blob/main/HW/Midterm/Async%20Await.md)
 - [AJAX和HTTP請求](https://github.com/abc644/wp111b/blob/main/HW/Midterm/AJAX%E5%92%8CHTTP%E8%AB%8B%E6%B1%82.md)
+
+4.[瀏覽器JavaScript](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E7%80%8F%E8%A6%BD%E5%99%A8JavaScript.md)
+- [DOM操作和事件處理](https://github.com/abc644/wp111b/blob/main/HW/Midterm/DOM%E6%93%8D%E4%BD%9C%E5%92%8C%E4%BA%8B%E4%BB%B6%E8%99%95%E7%90%86.md)
+- [瀏覽器對象模型（BOM）](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E7%80%8F%E8%A6%BD%E5%99%A8%E5%B0%8D%E8%B1%A1%E6%A8%A1%E5%9E%8B%EF%BC%88BOM%EF%BC%89.md)
+- [動態HTML和CSS](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E5%8B%95%E6%85%8BHTML%E5%92%8CCSS.md)
+- [客戶端存儲](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E5%AE%A2%E6%88%B6%E7%AB%AF%E5%AD%98%E5%84%B2.md)
+
+5.[JavaScript庫和框架](https://github.com/abc644/wp111b/blob/main/HW/Midterm/JavaScript%E5%BA%AB%E5%92%8C%E6%A1%86%E6%9E%B6.md)
+- [jQuery和其它常用庫](https://github.com/abc644/wp111b/blob/main/HW/Midterm/jQuery%E5%92%8C%E5%85%B6%E5%AE%83%E5%B8%B8%E7%94%A8%E5%BA%AB.md)
+- [React和Angular](https://github.com/abc644/wp111b/blob/main/HW/Midterm/React%E5%92%8CAngular.md)
+- [跨平台開發（Node.js）](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E9%96%8B%E7%99%BC%EF%BC%88Node.js%EF%BC%89.md)
