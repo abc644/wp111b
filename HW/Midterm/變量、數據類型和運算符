@@ -1,0 +1,61 @@
+## 變量聲明
+在JavaScript中，可以使用關鍵字 var、let 或 const 來聲明變量。這些關鍵字有不同的作用域和生存期。
+
+```
+// 使用 var 聲明變量（函數作用域）
+var name = 'John';
+
+// 使用 let 聲明變量（塊級作用域）
+let age = 25;
+
+// 使用 const 聲明常量（塊級作用域）
+const PI = 3.14;
+```
+## 數據類型
+JavaScript中的數據類型包括原始類型和複合類型。
+```
+// 原始類型
+let num = 10;                // 整數
+let pi = 3.14;               // 浮點數
+let name = 'John';           // 字符串
+let isTrue = true;           // 布爾值
+let empty = null;            // 空值
+let undefinedValue = undefined; // 未定義
+
+// 複合類型
+let person = {
+  name: 'John',
+  age: 25
+};                          // 物件
+
+let numbers = [1, 2, 3, 4];   // 數組
+```
+
+## 運算符
+JavaScript提供了各種運算符來執行數學運算、邏輯操作等。
+```
+let x = 10;
+let y = 5;
+
+// 算術運算符
+let sum = x + y;
+let difference = x - y;
+let product = x * y;
+let quotient = x / y;
+let remainder = x % y;
+
+// 比較運算符
+let isGreater = x > y;
+let isLess = x < y;
+let isEqual = x === y;
+let isNotEqual = x !== y;
+
+// 邏輯運算符
+let andOperator = (x > 0) && (y > 0);
+let orOperator = (x > 0) || (y > 0);
+let notOperator = !(x > 0);
+```
+
+這是一個簡單的示例，展示了如何聲明變量、使用不同的數據類型以及執行基本的運算。請注意，JavaScript還提供了其他更高級的運算符和功能，但這些是入門JavaScript的基礎知識。
+
+通過實際編寫和執行JavaScript程式碼，你可以更好地理解這些概念，並深入瞭解JavaScript的運作方式。
