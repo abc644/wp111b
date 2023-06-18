@@ -14,7 +14,7 @@
 2.[物件導向編程（OOP）](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E7%B7%A8%E7%A8%8B%EF%BC%88OOP%EF%BC%89.md)
 - [物件和原型](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E7%89%A9%E4%BB%B6%E5%92%8C%E5%8E%9F%E5%9E%8B.md)
 - [繼承和多態性](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E7%B9%BC%E6%89%BF%E5%92%8C%E5%A4%9A%E6%85%8B%E6%80%A7.md)
-- [封裝和抽象]()
+- [封裝和抽象](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E5%B0%81%E8%A3%9D%E5%92%8C%E6%8A%BD%E8%B1%A1.md)
 - [設計模式](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)  
 
 3.[非同步編程和異步操作](https://github.com/abc644/wp111b/blob/main/HW/Midterm/%E9%9D%9E%E5%90%8C%E6%AD%A5%E7%B7%A8%E7%A8%8B%E5%92%8C%E7%95%B0%E6%AD%A5%E6%93%8D%E4%BD%9C.md)
