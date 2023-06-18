@@ -1,0 +1,9 @@
+body{
+    background-color: #ede6e6;
+    font-family: Microsoft JhengHei;
+}
+
+input[type="submit"]{
+    background-color: #4c78e8;
+    color: #fff;
+}
